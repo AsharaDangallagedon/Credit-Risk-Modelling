@@ -6,6 +6,8 @@ Note: I pursued the second project in order to better understand and learn more 
 
 Both projects focus on building models from the ground up, validating them properly, and understanding their practical limitations.
 
+
+
 Project 1: Credit Card Approval Prediction
 
 This project develops machine learning models to predict whether a credit card application should be approved or rejected.
@@ -29,6 +31,8 @@ Model validation and evaluation
 Class imbalance analysis
 
 Feature inspection and descriptive statistics
+
+
 
 Project 2: Credit Risk Modelling and IFRS 9 Expected Credit Loss
 
@@ -60,10 +64,12 @@ Building staging logic instead of treating it as a black box
 
 Translating model outputs into portfolio-level loss estimates
 
+
+
 Tools and Libraries
 
-Python
-NumPy
-Pandas
-scikit-learn
-Matplotlib
+- Python
+- NumPy
+- Pandas
+- scikit-learn
+- Matplotlib
