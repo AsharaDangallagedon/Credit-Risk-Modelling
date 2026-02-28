@@ -1,0 +1,27 @@
+{
+  "data_path": "data/loans_stage1_sampled.csv",
+  "cutoff_months": 24,
+  "test_size": 0.2,
+  "val_size": 0.15,
+  "target_fpr": 0.2,
+  "n_bins": 10,
+  "best_model": "BASELINE_L2",
+  "best_threshold_uncalibrated": 0.22165123094835695,
+  "threshold_calibrated": 0.2209107680948723,
+  "val_metrics_uncalibrated": {
+    "roc_auc": 0.7015289752897703,
+    "pr_auc": 0.29371514667479354
+  },
+  "test_metrics_uncalibrated": {
+    "roc_auc": 0.6789944569827849,
+    "pr_auc": 0.26658289287650694
+  },
+  "val_metrics_calibrated": {
+    "roc_auc": 0.7015913366580864,
+    "pr_auc": 0.2934950108131462
+  },
+  "test_metrics_calibrated": {
+    "roc_auc": 0.6790012036787343,
+    "pr_auc": 0.26633043714550775
+  }
+}
