@@ -1,4 +1,4 @@
-Credit Risk and Financial Machine Learning Projects
+### Credit Risk and Financial Machine Learning Projects
 
 This repository contains two projects focused on credit risk modelling and credit decision systems. The first project explores binary classification for credit card approvals using machine learning. The second project builds a simplified but complete IFRS 9-style Expected Credit Loss (ECL) framework using consumer loan data.
 
@@ -8,7 +8,7 @@ Both projects focus on building models from the ground up, validating them prope
 
 
 
-Project 1: Credit Card Approval Prediction
+### Project 1: Credit Card Approval Prediction
 
 This project develops machine learning models to predict whether a credit card application should be approved or rejected.
 
@@ -34,7 +34,7 @@ Feature inspection and descriptive statistics
 
 
 
-Project 2: Credit Risk Modelling and IFRS 9 Expected Credit Loss
+### Project 2: Credit Risk Modelling and IFRS 9 Expected Credit Loss
 
 This project builds an end-to-end credit risk workflow aligned with IFRS 9 principles using LendingClub loan data.
 
@@ -66,7 +66,7 @@ Translating model outputs into portfolio-level loss estimates
 
 
 
-Tools and Libraries
+### Tools and Libraries
 
 - Python
 - NumPy
